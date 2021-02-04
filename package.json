@@ -26,6 +26,7 @@
     "express": "^4.17.1",
     "helmet": "^4.4.1",
     "mongodb": "^3.6.4",
+    "mongoose": "^5.11.15",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-hot-loader": "^4.13.0"
